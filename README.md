@@ -6,7 +6,18 @@ After working for two tech companies since graduating university I became fascin
 
 Joining Makers Academy in September 2018, the 16 week coding bootcamp will aim to further develop my programming skills, allow me to continue learning best practices and provide the opportunity to build some exciting projects (insert project link here). (update this throughout course)
 
-## Skills
+## :floppy_disk: Projects
+
+| Project       | Description   | Technologies  |
+| ------------- |:-------------:| -------------:|
+| TBC           | TBC           | TBC           |
+| TBC           | TBC           | TBC           |
+| TBC           | TBC           | TBC           |
+| TBC           | TBC           | TBC           |
+
+You can find all projects on my Github profile [here](https://github.com/darciew)
+
+## :bulb: Skills
 
 #### Communication
 
@@ -16,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Curious 
+#### Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -25,11 +36,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Self Starter
+#### Self Starter 
 
-TBC
+TBC 
 
-#### Problem Solving 
+#### Curious
 
 TBC
 
@@ -37,9 +48,11 @@ TBC
 
 TBC
 
-#### Mentoring  
+#### Mentoring 
 
-## Education
+TBC 
+
+## :mortar_board: Education
 
 #### Makers Academy (September - November 2018)
 
@@ -58,9 +71,16 @@ TBC
 
 #### Any other qualifications
 
-## Experience
+## :white_check_mark: Experience
 
-**Company Name** (February 2017 to May 2018)    
+**Property Partner** (February 2017 to May 2018)    
 *Office Manager*  
 **Grabble** (November 2015 to January 2017)   
 *Marketing Assistant*  
+
+## :earth_africa: Interests
+**Adventurer** - I’ll be out walking and exploring in my free time.
+
+**Yoga and meditation** - essential for a clear and focused mind.
+
+**Diversity** - using my skills and knowledge to encourage young females to get into the tech industry.
