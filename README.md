@@ -89,4 +89,4 @@ TBC
 
 **Yoga and meditation** - essential for a clear and focused mind.
 
-**Diversity** - using my skills and knowledge to encourage young females to get into the tech industry.
+**Diversity** - using my skills and knowledge to encourage young females in schools to get into the tech industry.
