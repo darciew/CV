@@ -10,13 +10,13 @@ Graduating from Makers Academy in November 2018, the 16 week coding bootcamp has
 
 
 ## :floppy_disk: Projects
-
-| Title         | Description   | Technologies  |
-| ------------- |:-------------:| -------------:|
-| TBC           | TBC           | TBC           |
-| TBC           | TBC           | TBC           |
-| TBC           | TBC           | TBC           |
-| TBC           | TBC           | TBC           |
+| Title         | Description   | Technologies  | Delivery Time
+| ------------- |:-------------:| -------------:| -------------:|
+| [MADE To Help](https://github.com/darciew/made-to-help) | MADE to Help is a mobile app that helps find the best, and most accessible, routes for those who need help navigating the city of London. We built this as part of our final project at Makers, choosing to learn a completely new technology to us (React Native) to really challenge ourselves | React Native, Expo, JSX, Jest, Enzyme, Detox|    2 Weeks   |
+| [Instasham](https://github.com/darciew/instagram-challenge) | We were tasked to build a clone of Instagram for a solo weekend project. It was a great chance to practice building a CRUD web application  | Ruby, Rails, PostgresSQL, HTML, CSS, RSpec, Capybara, TravisCI | 2 Days |
+| [Acebook](https://github.com/darciew/acebook-rails-template) | In week's 9 and 10 at Makers we built a clone of the popular social media app, Facebook, as part of a team. We focused on sticking to Agile processes and improving our code coverage and quality, writing code that is easy to change. | Ruby, Rails, Devise, PostgreSQL, HTML, CSS, RSpec, Capybara, TravisCI | 2 Weeks|
+| [Rock, Paper, Scissors](https://github.com/darciew/rps-challenge) | I built this at the end of week 3 of Makers with an aim of showcasing a basic request/response cycle in a simple web app using MVC architecture. | Ruby, Sinatra, RSpec, Capybara, HTML, CSS | 2 Days |
+| [FizzBuzz in Python](https://github.com/darciew/fizzbuzz-python) | In week 5, we were challenged to program the FizzBuzz sequence in a completely new language in one day - using our skills in learning by translation. I managed to successfully do this and TDD the application | Python, UnitTest | 1 Day |
 
 You can find all projects on my Github profile [here](https://github.com/darciew)
 
