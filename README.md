@@ -2,7 +2,7 @@
 
 | [Projects](#floppy_disk-projects) | [Skills](#bulb-skills) | [Education](#mortar_board-education) | [Experience](#white_check_mark-experience) | [Interests](#earth_africa-interests) |
 
-Highly engaged and ambitious Full Stack Web Developer looking to add value, expand my knowledge on existing technologies and explore new ones in a collaborative space. Excited to join a company where I can gain hands-on activity and be a visible member of the team.
+Highly engaged and ambitious Full Stack Web Developer looking to add value, expand my knowledge on existing technologies and explore new ones in a collaborative space. Excited to join a company where I can gain hands-on experience and be a visible member of the team.
 
 After working for two tech start-ups since graduating university I became fascinated with the world of tech and realised I needed a career change out of my admin-based role. Finding online resources and attending industry meet-ups, I was hooked, and decided to pursue a career in web development.
 
@@ -40,15 +40,15 @@ Proven ability to communicate effectively at all levels of a business.
 
 Being an Office Manager meant constantly tackling problems and crafting their solutions.
 
-- Partnered with HR to create and design an on-boarding process for new staff - this was non-existent when I started.
+- Partnered with HR to create and design an on-boarding process for new staff.
 
 - Assisted organising an impromptu office move that required finding and moving to a new site within 2 months of notice. I diagrammed and presented different location options to evaluate the best solution.
 
-- Worked closely with the VP of Engineering to develop IT solutions, there was no IT department so I became the first point of call for any technical issues in the office. I created a database to keep track of company laptops through our security software system, something that wasn't in place when I began.
+- Worked closely with the VP of Engineering to develop IT solutions, I was the first point of call for any technical issues in the office. I created a database to keep track of company laptops through our security software system, something that wasn't in place when I began.
 
-At Makers, we worked hard to approach problems methodically.
+At Makers, I worked hard to approach problems methodically.
 
-- During our final project at Makers, we were struggling to correctly test a  Component's changing state. I decided to take some time out of building features to learn about React Native testing using Jest and Enzyme. After a bit of time researching I was able to write our first passing test and increase our overall test coverage.
+- During our final project at Makers, we were struggling to correctly test React Component's changing state. I took some time out to learn about React Native testing using Jest and Enzyme. After a bit of time researching I was able to write our first passing test and increase our overall test coverage.
 
 ### Self Starter Who Thrives in a Collaborative Environment
 
@@ -56,11 +56,11 @@ I work best when I am surrounded by a team of passionate, like-minded individual
 
 - Experience working in an agile environment, taking part in stand-ups and leading retrospectives.
 
-- Organised 'Tea Time Tuesdays' at Property Partner as part of a 'culture uplift', which was a chance for everyone in the company to take a 10 minutes break over a nice cup of tea and check-in with each other.
+- Organised 'Tea Time Tuesdays' at Property Partner as part of a 'culture uplift' - a chance for everyone in the company to take a 10 minutes break over a nice cup of tea and check-in with each other.
 
 ### Mentoring
 
-- During my time at Makers I signed up to mentor students from newer cohorts and really enjoyed the experience. One thing I am particularly proud of was creating a program to help improve my mentee's TDD skills. After pairing on the exercise he contacted me after to say it massively helped him improve his process and he was able to complete a piece of work that he was unable to do previous to our session.
+- Signed up to mentor students from newer cohorts and really enjoyed the experience. Created a program to help improve my mentee's TDD skills, after pairing on the exercise he contacted me after to say it massively helped him improve his process and he was able to complete a piece of work that he was unable to do previous to our session.
 
 
 ## :mortar_board: Education
