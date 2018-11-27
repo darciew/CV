@@ -42,7 +42,7 @@ Being an Office Manager meant constantly tackling problems and crafting their so
 
 - Partnered with HR to create and design an on-boarding process for new staff - this was non-existent when I started.
 
-- Assisted on a last minute unplanned office move that required finding and moving to a new site within 2 months of notice. I diagrammed and presented options to evaluate the best solution.
+- Assisted organising an impromptu office move that required finding and moving to a new site within 2 months of notice. I diagrammed and presented different location options to evaluate the best solution.
 
 - Worked closely with the VP of Engineering to develop IT solutions, there was no IT department so I became the first point of call for any technical issues in the office. I created a database to keep track of company laptops through our security software system, something that wasn't in place when I began.
 
@@ -70,7 +70,7 @@ I work best when I am surrounded by a team of passionate, like-minded individual
 - Agile/XP Values
 - Pair Programming
 - OOP, TDD, BDD, MVC, DRY, SOLID
-- Ruby, Rails, JavaScript, Node.js, React, React Native
+- Ruby, Rails, JavaScript, Node.js, React, React Native, HTML, CSS
 - RSpec, Capybara, Jasmine, Jest, Mocha, Chai, Detox, Enzyme
 - PostgresSQL, MongoDB
 
