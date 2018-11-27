@@ -23,7 +23,7 @@ You can find all projects on my Github profile [here](https://github.com/darciew
 
 ## :bulb: Skills
 
-#### Excellent Communicator
+### Excellent Communicator
 
 Proven ability to communicate effectively at all levels of a business.
 
@@ -36,7 +36,7 @@ Proven ability to communicate effectively at all levels of a business.
 - First point of contact for customers, clients, investors and other key stakeholders of the business.
 
 
-#### Problem Solving
+### Problem Solving
 
 Being an Office Manager meant constantly tackling problems and crafting their solutions.
 
@@ -50,7 +50,7 @@ At Makers, we worked hard to approach problems methodically.
 
 - During our final project at Makers, we were struggling to correctly test a  Component's changing state. I decided to take some time out of building features to learn about React Native testing using Jest and Enzyme. After a bit of time researching I was able to write our first passing test and increase our overall test coverage.
 
-#### Self Starter Who Thrives in a Collaborative Environment
+### Self Starter Who Thrives in a Collaborative Environment
 
 I work best when I am surrounded by a team of passionate, like-minded individuals.
 
@@ -58,23 +58,21 @@ I work best when I am surrounded by a team of passionate, like-minded individual
 
 - Organised 'Tea Time Tuesdays' at Property Partner as part of a 'culture uplift', which was a chance for everyone in the company to take a 10 minutes break over a nice cup of tea and check-in with each other.
 
-#### Mentoring
+### Mentoring
 
 - During my time at Makers I signed up to mentor students from newer cohorts and really enjoyed the experience. One thing I am particularly proud of was creating a program to help improve my mentee's TDD skills. After pairing on the exercise he contacted me after to say it massively helped him improve his process and he was able to complete a piece of work that he was unable to do previous to our session.
 
 
 ## :mortar_board: Education
 
-#### Makers Academy (September - November 2018)
+#### Makers Academy (August - November 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile/XP Values
+- Pair Programming
+- OOP, TDD, BDD, MVC, DRY, SOLID
+- Ruby, Rails, JavaScript, Node.js, React, React Native
+- RSpec, Capybara, Jasmine, Jest, Mocha, Chai, Detox, Enzyme
+- PostgresSQL, MongoDB
 
 #### University of Brighton (September 2011 - July 2014)
 
@@ -91,8 +89,8 @@ I work best when I am surrounded by a team of passionate, like-minded individual
 
 
 ## :earth_africa: Interests
+**Blog** - At Makers I started writing my first blog. I found it really helpful for solidifying my own knowledge on certain topics and I like using it as a platform to share my thoughts and learnings. Check it out [here](https://medium.com/@darciewalsh91).
+
 **Adventurer** - I’ll be out walking and exploring in my free time.
 
-**Yoga and meditation** - essential for a clear and focused mind.
-
-**Diversity** - using my skills and knowledge to encourage young females in schools to get into the tech industry.
+**Yoga and Meditation** - essential for a clear and focused mind.
