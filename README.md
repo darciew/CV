@@ -60,7 +60,7 @@ I work best when I am surrounded by a team of passionate, like-minded individual
 
 ### Mentoring
 
-- Signed up to mentor students from newer cohorts and really enjoyed the experience. Created a program to help improve my mentee's TDD skills, after pairing on the exercise he contacted me after to say it massively helped him improve his process and he was able to complete a piece of work that he was unable to do previous to our session.
+- Signed up to mentor students from newer cohorts and created a program to help improve my mentee's TDD skills. After pairing on the exercise he contacted me after to say it massively helped him improve his process and he was able to complete a piece of work that he was unable to do previous to our session.
 
 
 ## :mortar_board: Education
