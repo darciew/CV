@@ -10,7 +10,7 @@ Graduating from Makers Academy in November 2018, the 16 week coding bootcamp has
 
 
 ## :floppy_disk: Projects
-| Title         | Description   | Technologies  | Delivery Time
+| Title         | Description   | Technologies  | Development Time
 | ------------- |:-------------:| -------------:| -------------:|
 | [MADE To Help](https://github.com/darciew/made-to-help) | MADE to Help is a mobile app that helps find the best, and most accessible, routes for those who need help navigating the city of London. We built this as part of our final project at Makers, choosing to learn a completely new technology to us (React Native) to really challenge ourselves | React Native, Expo, JSX, Jest, Enzyme, Detox|    2 Weeks   |
 | [Instasham](https://github.com/darciew/instagram-challenge) | We were tasked to build a clone of Instagram for a solo weekend project. It was a great chance to practice building a CRUD web application  | Ruby, Rails, PostgresSQL, HTML, CSS, RSpec, Capybara, TravisCI | 2 Days |
